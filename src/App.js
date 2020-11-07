@@ -16,6 +16,10 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+        <br />
+          Dev: Remulo Costa 
+        <br />
+         Description: Test dockerized app development with React in hot-reload 
         </a>
       </header>
     </div>
